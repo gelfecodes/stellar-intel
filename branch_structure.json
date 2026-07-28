@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/d061-instrument-funnel-events",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/d061-instrument-funnel-events": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/d061-instrument-funnel-events",
+    "origin"
+  ]
+}
